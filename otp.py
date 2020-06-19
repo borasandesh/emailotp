@@ -59,9 +59,9 @@ def mainc():
 
     smtp.starttls()
 
-    semail= "dadadadu588@gmail.com"
+    semail= "#type your(sender)mail id here"
 
-    spwd = "8446698502"
+    spwd = "#your mail password"
 
     smtp.login(semail,spwd)
 
